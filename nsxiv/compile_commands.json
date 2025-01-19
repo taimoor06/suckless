@@ -1,0 +1,25 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c99",
+      "-Wall",
+      "-pedantic",
+      "-O2",
+      "-DNDEBUG",
+      "-D_XOPEN_SOURCE=700",
+      "-DHAVE_LIBEXIF=1",
+      "-DHAVE_LIBFONTS=1",
+      "-DHAVE_INOTIFY=1",
+      "-I/usr/include/freetype2",
+      "-I/usr/local/include/freetype2",
+      "-c",
+      "-o",
+      "autoreload.o",
+      "autoreload.c"
+    ],
+    "directory": "/home/taimoor/.local/src/repos/suckless/nsxiv",
+    "file": "/home/taimoor/.local/src/repos/suckless/nsxiv/autoreload.c",
+    "output": "/home/taimoor/.local/src/repos/suckless/nsxiv/autoreload.o"
+  }
+]

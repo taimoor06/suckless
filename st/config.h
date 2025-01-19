@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Cousine Nerd Font Mono:size=14:antialias=true:autohint=true";
+static char *font = "Cousine Nerd Font Mono:size=20:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = { "NotoColorEmoji:pixelsize=16:antialias=true:autohint=true" };
 
